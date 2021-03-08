@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\Profinet\IODevice]
+"DeviceName"="hmixb110d0"
+
+[HKEY_LOCAL_MACHINE\Comm\Adaptername\Parms\TcpIP]
+"IpAddress"="192.168.0.2"
+"Subnetmask"="255.255.255.0"
+"DefaultGateway"="0.0.0.0"
+"EnableDHCP"="0"
